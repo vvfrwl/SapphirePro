@@ -3,18 +3,21 @@ TwoTrees SaphirePro 3D printer CAD model.
 1. Created in Free T-FLEX CAD Student Edition 16.0.75
 
 eng: https://www.tflex.com/resources/tflexcadst/
+
 rus: https://www.tflexcad.ru/download/t-flex-cad-free/
 
 2. Technical limitation:
 
 https://www.tflexcad.ru/download/t-flex-cad-free/limitations.php
+
 https://www.tflex.com/resources/tflexcadst/limitations.php
 
 3. Special Terms (License):
 "Учебная версия распространяется бесплатно и может быть использована исключительно в ознакомительных и учебных целях. Запрещается коммерческое распространение и использование Учебной версии."
-"You may not use T-FLEX CAD Student Edition for commercial purposes.
-"
+"You may not use T-FLEX CAD Student Edition for commercial purposes."
+
 https://www.tflexcad.ru/download/t-flex-cad-free/license.php
+
 https://www.tflex.com/resources/tflexcadst/license.php
 
 
