@@ -14,6 +14,7 @@ https://www.tflex.com/resources/tflexcadst/limitations.php
 
 3. Special Terms (License):
 "Учебная версия распространяется бесплатно и может быть использована исключительно в ознакомительных и учебных целях. Запрещается коммерческое распространение и использование Учебной версии."
+
 "You may not use T-FLEX CAD Student Edition for commercial purposes."
 
 https://www.tflexcad.ru/download/t-flex-cad-free/license.php
